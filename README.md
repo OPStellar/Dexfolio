@@ -3,8 +3,8 @@ Pokémon Showdown
 
 Navigation: [Website][1] | **Server repository** | [Client repository][2] | [Dex repository][3]
 
-  [1]: http://pokemonshowdown.com/
-  [2]: https://github.com/smogon/pokemon-showdown-client
+  [1]: https://pokemonshowdown.com/
+  [2]: https://github.com/dexcord/Client
   [3]: https://github.com/Zarel/Pokemon-Showdown-Dex
 
 [![Build Status](https://github.com/smogon/pokemon-showdown/workflows/Node.js%20CI/badge.svg)](https://github.com/smogon/pokemon-showdown/actions?query=workflow%3A%22Node.js+CI%22)
@@ -20,7 +20,7 @@ Pokémon Showdown is many things:
 
 - A **web site** you can use for Pokémon battling
 
-  - http://pokemonshowdown.com/
+  - https://pokemonshowdown.com/
 
 - A **JavaScript library** for simulating Pokémon battles and getting Pokédex data
 
@@ -90,4 +90,4 @@ Staff
 
 Contributors
 
-- See http://pokemonshowdown.com/credits
+- See https://pokemonshowdown.com/credits
