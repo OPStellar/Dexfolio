@@ -1,4 +1,2 @@
 # Dexfolio
-Welcome to the jungle. `Gotta sketch 'em all!`
-
-*Currently, we are seeking new template to start working on the bot.*
+OPStellar's PS! server repository for code work in Pet Mods
